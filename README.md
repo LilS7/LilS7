@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lee</h1>
-<h3 align="center">A passionate Data Scientist from China</h3>
+<h3 align="center">A passionate Data Scientist</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lils7&label=Profile%20views&color=0e75b6&style=flat" alt="lils7" /> </p>
 
