@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Lee</h1>
-<h3 align="center">A passionate Data Scientist</h3>
+<h3 align="center">A passionate Data Scientist and Physicist</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lils7&label=Profile%20views&color=0e75b6&style=flat" alt="lils7" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lils7" alt="lils7" /></a> </p>
 
-- 🔭 I’m currently working on [Persi](https://github.com/PCA2021)
+- 🔭 I was working on [Persi](https://github.com/PCA2021)
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Physics** at University of Oxford
 
 - 👨‍💻 My linkedIn profile [https://www.linkedin.com/in/lee-shi-b392571aa/](https://www.linkedin.com/in/lee-shi-b392571aa/)
 
