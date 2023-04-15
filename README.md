@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 👨‍💻 My linkedIn profile [https://www.linkedin.com/in/lee-shi-b392571aa/?locale=zh_CN](https://www.linkedin.com/in/lee-shi-b392571aa/?locale=zh_CN)
+- 👨‍💻 My linkedIn profile [https://www.linkedin.com/in/lee-shi-b392571aa/](https://www.linkedin.com/in/lee-shi-b392571aa/)
 
 - 📫 How to reach me **shili10001@gmail.com**
 
